@@ -2,7 +2,12 @@
 
 2D shooting game inspired by our childhood 2D shooting game combined with The Farmer and the Snake Moral Story
 
-For the Prog Meth course term project
+*This project is the Prog Meth course term project*
+
+## Collaborator
+
+<a href="https://github.com/punyaphatsura" target="_blank">Punyaphat Surakiatkamjorn</a>,
+<a href="https://github.com/ThanatWonsamut" target="_blank">Thanat Wongsamut</a>
 
 ## Game Overview
 
