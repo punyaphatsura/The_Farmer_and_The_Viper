@@ -1,6 +1,7 @@
 # The Farmer and The Viper
 
 2D shooting game inspired by our childhood 2D shooting game combined with The Farmer and the Snake Moral Story
+
 For the Prog Meth course term project
 
 ## Game Overview
