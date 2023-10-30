@@ -15,7 +15,7 @@ The Farmer’s farm is invaded by large herds of vipers. Instead of allowing the
 as they please. Instead, the farmer chose to fight for their honor and dignity. and want to destroy the
 myth that at the end of The Farmer and The Viper story must end by the farmer is bitten by the viper.
 
-# How to play
+## How to play
 
 - **W:** Move forward.
 - **A:** Move left.
