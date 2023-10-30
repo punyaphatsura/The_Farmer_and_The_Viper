@@ -1,0 +1,1 @@
+java -jar --module-path %PATH_TO_JAVAFX% --add-modules javafx.controls,javafx.fxml The_Farmer_And_The_Viper.jar
