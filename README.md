@@ -4,10 +4,10 @@
 
 *This project is the Prog Meth course term project*
 
-## Collaborator
+## Collaborators
 
-<a href="https://github.com/punyaphatsura" target="_blank" style="decoration: none">Punyaphat Surakiatkamjorn</a>,
-<a href="https://github.com/ThanatWongsamut" target="_blank" style="decoration: none">Thanat Wongsamut</a>
+- [Punyaphat Surakiatkamjorn](https://github.com/punyaphatsura)
+- [Thanat Wongsamut](https://github.com/ThanatWongsamut)
 
 ## Game Overview
 
