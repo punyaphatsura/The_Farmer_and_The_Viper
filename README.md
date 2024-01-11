@@ -7,7 +7,7 @@
 ## Collaborator
 
 <a href="https://github.com/punyaphatsura" target="_blank" style="decoration: none">Punyaphat Surakiatkamjorn</a>,
-<a href="https://github.com/ThanatWonsamut" target="_blank" style="decoration: none">Thanat Wongsamut</a>
+<a href="https://github.com/ThanatWongsamut" target="_blank" style="decoration: none">Thanat Wongsamut</a>
 
 ## Game Overview
 
