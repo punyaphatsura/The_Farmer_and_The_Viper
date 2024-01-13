@@ -2,7 +2,7 @@
 
 2D shooting game inspired by our childhood 2D shooting game combined with The Farmer and the Snake Moral Story
 
-*This project is the Prog Meth course term project*
+*This project is the Program Methodology course term project*
 
 ## Collaborators
 
@@ -11,7 +11,7 @@
 
 ## Game Overview
 
-The Farmer’s farm is invaded by large herds of vipers. Instead of allowing the vipers to live in his field
+Large herds of vipers invade the Farmer’s farm. Instead of allowing the vipers to live in his field
 as they please. Instead, the farmer chose to fight for their honor and dignity. and want to destroy the
 myth that at the end of The Farmer and The Viper story must end by the farmer is bitten by the viper.
 
@@ -22,7 +22,7 @@ myth that at the end of The Farmer and The Viper story must end by the farmer is
 - **S:** Move backward.
 - **D:** Move right.
 - **1-6:** Pick/Swap Weapons
-  - **1:** Pistol (available from start)
+  - **1:** Pistol (available from the start)
   - **2:** Rifle (available after 1 minute)
   - **3:** Shotgun (available after 1 minute)
   - **4:** Machinegun (available after 3 minutes)
@@ -31,21 +31,21 @@ myth that at the end of The Farmer and The Viper story must end by the farmer is
 
 ## Gameplay
 
-- **Player:** Starts with 100 HP, can use various guns.
+- **Player:** Starts with 100 HP, and can use various guns.
 - **Floor:** Area for player and viper movement.
 - **Enemy:**
   - _Vipers:_ 50 HP, spawn at start. Increase in number every 20 sec before 5 minutes.
   - _King Viper:_ 10000 HP, summoned at 5 minutes. Slower, deals 90 damage.
 - **Weapons:**
-  - _Pistol:_ 20 damage, 3.33 shots/sec (available from start).
+  - _Pistol:_ 20 damage, 3.33 shots/sec (available from the start).
   - _Rifle:_ 25 damage, 3.33 shots/sec (available after 1 minute).
   - _Shotgun:_ 20 damage/bullet, 2 shots/sec, 3 bullets/spray (available after 1 minute).
   - _Machinegun:_ 5 damage, 15 shots/sec (available after 3 minutes).
   - _Laser Gun:_ 40 damage, 1.25 shots/sec, penetrates enemies (available after 3 minutes).
   - _Flamethrower:_ 2 damage, 6.66 shots/sec, continuous damage (available after 3 minutes).
 - **Gun Inventory:** Displays available guns with transparency based on usability.
-- **Timer:** Shows time since game start.
-- **Score:** Starts at 0, increases by 10 for killing vipers (2000 for King Viper). Multiplier increases for every 10 kills without damage, max 20x. Reset if player takes damage.
+- **Timer:** Shows the time since the game started.
+- **Score:** Starts at 0, increases by 10 for killing vipers (2000 for King Viper). Multiplier increases for every 10 kills without damage, max 20x. Reset if the player takes damage.
 
 ## Game Flow
 
@@ -53,7 +53,7 @@ myth that at the end of The Farmer and The Viper story must end by the farmer is
 - 1 min: Shotgun and rifle available.
 - 3 min: All guns available.
 - 5 min: King Viper summoned, no more viper increase.
-- King Viper Death: Vipers stop respawning. Player wins if all vipers, including King Viper, are killed. Game over if player's HP reaches 0.
+- King Viper Death: Vipers stop respawning. Player wins if all vipers, including King Viper, are killed. Game over if the player's HP reaches 0.
 
 ## Game preview
 
